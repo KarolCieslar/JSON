@@ -1,0 +1,13 @@
+[
+{
+"id":"1",
+"name":"Test 1",
+"description":"description 1",
+"address":"address 1",
+"photo_patch":"https://enjoytheparty.pl/storage/images/1630402393.jpg",
+"user_id":"user_id",
+"city_id":"city_id",
+"created_at":"created_at",
+"updated_at":"updated_at"
+}
+]
