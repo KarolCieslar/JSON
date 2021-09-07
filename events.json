@@ -1,0 +1,44 @@
+[
+{
+"id":"1",
+"name":"Event 1",
+"description":"description 1",
+"address":"address 1",
+"photo_patch":"https://enjoytheparty.pl/storage/images/1631004851.jpg",
+"user_id":"user_id",
+"city_id":"city_id",
+"club_id":"club_id",
+"date_of_event":"date_of_event",
+"displayed":"displayed",
+"created_at":"created_at",
+"updated_at":"updated_at"
+},
+{
+    "id":"2",
+    "name":"Event 2",
+    "description":"description 2",
+    "address":"address 2",
+    "photo_patch":"https://enjoytheparty.pl/storage/images/1631004886.jpg",
+    "user_id":"user_id",
+    "city_id":"city_id",
+    "club_id":"club_id",
+    "date_of_event":"date_of_event",
+    "displayed":"displayed",
+    "created_at":"created_at",
+    "updated_at":"updated_at"
+    },
+    {
+        "id":"3",
+        "name":"Event 3",
+        "description":"description 3",
+        "address":"address 3",
+        "photo_patch":"https://enjoytheparty.pl/storage/images/1631004910.jpg",
+        "user_id":"user_id",
+        "city_id":"city_id",
+        "club_id":"club_id",
+        "date_of_event":"date_of_event",
+        "displayed":"displayed",
+        "created_at":"created_at",
+        "updated_at":"updated_at"
+        }
+]
