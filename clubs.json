@@ -1,0 +1,37 @@
+{
+"clubs":[
+{
+"id":"1",
+"name":"Test 1",
+"description":"description 1",
+"address":"address 1",
+"photo_patch":"https://enjoytheparty.pl/storage/images/1630402393.jpg",
+"user_id":"user_id",
+"city_id":"city_id",
+"created_at":"created_at",
+"updated_at":"updated_at"
+},
+{
+"id":"2",
+"name":"Test 2",
+"description":"description 2",
+"address":"address 2",
+"photo_patch":"https://enjoytheparty.pl/storage/images/1630402067.jpg",
+"user_id":"user_id",
+"city_id":"city_id",
+"created_at":"created_at",
+"updated_at":"updated_at"
+},
+{
+"id":"3",
+"name":"Test 3",
+"description":"description 3",
+"address":"address 3",
+"photo_patch":"https://enjoytheparty.pl/storage/images/1630401975.jpg",
+"user_id":"user_id",
+"city_id":"city_id",
+"created_at":"created_at",
+"updated_at":"updated_at"
+}
+]
+}
